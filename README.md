@@ -3,14 +3,16 @@
 ### 🛠️ Animation Libraries Used
 
 #### 🟢 GSAP (GreenSock Animation Platform)
-![GSAP Logo](https://seeklogo.com/images/G/greensock-gsap-icon-logo-7B44C3BFC8-seeklogo.com.png)
+https://res.cloudinary.com/durdzswls/video/upload/q_90/v1/case-studies/gsap/lcasb5zvfhsr9qshqorn?_a=DATAg1AAZAA0
 
 #### ✨ ScrollMagic
-*(No official logo available. You can add a placeholder or custom icon if desired.)*
+![image](https://github.com/user-attachments/assets/2ed8728d-3a01-4a0a-a5e7-fc1e8be54fd9)
+
 
 #### 🚄 Locomotive Scroll
 *(No official logo available. You can use a placeholder:)*  
 ![Locomotive Scroll Placeholder](https://raw.githubusercontent.com/locomotivemtl/locomotive-scroll/master/assets/logo.svg)
 
 #### 🔺 Three.js
-![Three.js Logo](https://seeklogo.com/images/T/three-js-logo-07A39D4F79-seeklogo.com.png)
+![Uploading image.png…]()
+
